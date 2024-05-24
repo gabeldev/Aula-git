@@ -7,6 +7,7 @@ int main() {
 
 
     printf("Hello Git\n");
+    printf("Hello Git\n");
 
     return EXIT_SUCCESS;
 }
